@@ -1,0 +1,15 @@
+c:\users\сикировт\documents\visual studio 2017\Projects\OrderServiceApp\OrderServiceApp\bin\Debug\OrderServiceApp.exe.config
+c:\users\сикировт\documents\visual studio 2017\Projects\OrderServiceApp\OrderServiceApp\bin\Debug\OrderServiceApp.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\OrderServiceApp\OrderServiceApp\bin\Debug\OrderServiceApp.pdb
+c:\users\сикировт\documents\visual studio 2017\Projects\OrderServiceApp\OrderServiceApp\bin\Debug\EntityFramework.dll
+c:\users\сикировт\documents\visual studio 2017\Projects\OrderServiceApp\OrderServiceApp\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\сикировт\documents\visual studio 2017\Projects\OrderServiceApp\OrderServiceApp\bin\Debug\EntityFramework.xml
+c:\users\сикировт\documents\visual studio 2017\Projects\OrderServiceApp\OrderServiceApp\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\сикировт\documents\visual studio 2017\Projects\OrderServiceApp\OrderServiceApp\bin\Debug\ru\EntityFramework.resources.dll
+c:\users\сикировт\documents\visual studio 2017\Projects\OrderServiceApp\OrderServiceApp\obj\Debug\OrderServiceApp.csprojResolveAssemblyReference.cache
+c:\users\сикировт\documents\visual studio 2017\Projects\OrderServiceApp\OrderServiceApp\obj\Debug\OrderServiceApp.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\OrderServiceApp\OrderServiceApp\obj\Debug\OrderServiceApp.pdb
+c:\users\сикировт\documents\visual studio 2017\Projects\OrderServiceApp\OrderServiceApp\obj\Debug\OrderServiceApp.Migrations.InitialCreate.resources
+c:\users\сикировт\documents\visual studio 2017\Projects\OrderServiceApp\OrderServiceApp\obj\Debug\OrderServiceApp.csproj.GenerateResource.Cache
+c:\users\сикировт\documents\visual studio 2017\Projects\OrderServiceApp\OrderServiceApp\obj\Debug\OrderServiceApp.Migrations.AddDriverAge.resources
+c:\users\сикировт\documents\visual studio 2017\Projects\OrderServiceApp\OrderServiceApp\obj\Debug\OrderServiceApp.Migrations.AddCarColor.resources
